@@ -1,5 +1,5 @@
--- Guild Endeavor Leadboard
--- Version 2.3.4
+-- Endeavor Leaderboard
+-- Version 1.0.0
 -- Changes:
 --  - Refresh button next to close (hard refresh)
 --  - Fixed nil calls by using forward declarations for local functions
