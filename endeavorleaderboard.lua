@@ -1,5 +1,5 @@
--- Endeavor Leaderboard
--- Version 1.0.0
+-- EndeavorsLeaderboard
+-- Version 1.0.1
 -- Changes:
 --  - Refresh button next to close (hard refresh)
 --  - Fixed nil calls by using forward declarations for local functions

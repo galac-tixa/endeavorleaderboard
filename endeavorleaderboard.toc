@@ -1,8 +1,8 @@
 ## Interface: 120001
-## Title: endeavorleaderboard
+## Title: EndearvorsLeaderboard
 ## Notes: Ranking dos principais contribuidores do Endeavor (uso local)
 ## Author: galac-tixa
-## Version: 1.0.0
+## Version: 1.0.1
 ## SavedVariables: ELBG_DB
 
 endeavorleaderboard.lua
